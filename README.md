@@ -48,3 +48,12 @@
 
 ### 🌄 Quote to Reflect
 > *"Security is not a product, but a process."* - Bruce Schneier
+---
+
+### 🌟 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=intissarraissouni&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+
+---
+
